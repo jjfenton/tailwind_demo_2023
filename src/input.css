@@ -1,3 +1,6 @@
+/*
+This file consits of the tailwind css directives as well as any custom defined tailwind css class name (as defined by the developers)
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
